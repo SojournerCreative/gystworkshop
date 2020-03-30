@@ -370,8 +370,8 @@
 					<li><a href="#" data-toggle="collapse" data-target="#siteNavigation" class="btn btn-light">Menu <small><i class="fas fa-ellipsis-v"></i></small></a></li>
 				</ul>
 				<ul id="siteNavigation" class="site-header-navigation-list collapse d-lg-flex d-md-flex d-sm-none">
-					<li><a href="/crew.html" class="">Our Crew</a></li>
-					<li><a href="/workshop.html" class="">The Workshop</a></li>
+					<li><a href="/crew" class="">Our Crew</a></li>
+					<li><a href="/workshop" class="">The Workshop</a></li>
 					
 					
 				</ul>
@@ -522,8 +522,8 @@
 						<ul>
 							
 							
-							<li><a href="/crew.html" class="">Our Crew</a></li>
-							<li><a href="/workshop.html" class="">The Workshop</a></li>
+							<li><a href="/crew" class="">Our Crew</a></li>
+							<li><a href="/workshop" class="">The Workshop</a></li>
 							
 						</ul>
 						<br>
@@ -545,7 +545,7 @@
 						</p>
 						<hr class="endline endline-white">
 						<p class="text-center text-light">
-							<small><a href="/privacy.html" class="text-light">Privacy Policy</a> | <a href="/terms.html" class="text-light">Terms & Conditions</a> | <a href="/refunds.html" class="text-light">Refund Policy</a></small>
+							<small><a href="/privacy" class="text-light">Privacy Policy</a> | <a href="/terms" class="text-light">Terms & Conditions</a> | <a href="/refunds" class="text-light">Refund Policy</a></small>
 						</p>
 					</div>
 				</div>

@@ -370,8 +370,8 @@
 					<li><a href="#" data-toggle="collapse" data-target="#siteNavigation" class="btn btn-light">Menu <small><i class="fas fa-ellipsis-v"></i></small></a></li>
 				</ul>
 				<ul id="siteNavigation" class="site-header-navigation-list collapse d-lg-flex d-md-flex d-sm-none">
-					<li><a href="/crew.html" class="">Our Crew</a></li>
-					<li><a href="/workshop.html" class="">The Workshop</a></li>
+					<li><a href="/crew" class="">Our Crew</a></li>
+					<li><a href="/workshop" class="">The Workshop</a></li>
 					
 					
 				</ul>
@@ -381,95 +381,34 @@
 	<div class="welcome-banner welcome-banner-page">
 		<div class="container welcome-banner-container">
 			<div class="welcome-banner-headline text-center">
-				<h1 class="display-3">The Workshop
-				<br>
-				<small>Schedule</small>
-				</h1>
+				<h1 class="display-3">Return & <br>Refund Policy</h1>
 			</div>
 		</div>
 	</div>
 	<main class="page-content">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<h1 class="display-3 text-secondary">Day One</h1>
-
-					<h4>10am</h4>					
-					<p>Breakfast and Check-in</p>
-
-					<h4>11am</h4>					
-					<p>Orientation and Introductions</p>
-
-					<h4>12am</h4>					
-					<p>Group Writing Exercises</p>
-
-					<h4>1pm </h4>
-					<p>Presentation: Elevating Your Brand</p>
-
-					<h4>2pm</h4>					
-					<p>Group Q&A</p>
-
-					<h4>2:30pm</h4>
-					<p>Lunch Break</p>
-					<p>1 on 1 Question and Answer Sessions</p>
-
-					<h4>3:15pm</h4>
-					<p>Presentation: People Skills 101</p>
-
-					<h4>4pm</h4>					
-					<p>Presentation: Making that $$$</p>
-
-					<h4>5:30pm</h4>
-					<p>Presentation: Making Time For The S**T That Matters</p>
-
-					<h4>6pm</h4>					
-					<p>1 on 1 Question and Answer Sessions</p>
-					<p>Happy Hour!</p>
-
-					<h4>7pm</h4>					
-					<p>Check out of the Parkline</p>
-
-					<h4>7:30pm</h4>
-					<p>Dinner</p>
-
-					<h4>9pm</h4>					
-					<p>Hang out and about town</p>
-				</div>
-				<div class="col-md-6">
-					<h1 class="display-3 text-primary">Day Two</h1>
-
-					<h4>10am</h4>
-					<p><sup class="text-danger"><strong>*</strong></sup> Real Life Elopement Photoshoot</p>
-
-<h4>12pm</h4>
-<p>Checkin at the Parkline</p>
-
-<h4>12:30 PM</h4>
-Lunch 
-
-<h4>1pm</h4>
-<p>Live Editing Course, a.k.a “How to Crop Like a Mother F**ker"</p>
-
-<h4>2pm</h4>
-<p>Group Q&A</p>
-
-<h4>2:30pm</h4>
-<p>Presentation: All About Style, and How to Keep It Classy & Consistent</p>
-
-<h4>3:30pm</h4>
-<p>Group Exercise: Sharing and Critiquing</p>
-
-<h4>4:30pm</h4>
-<p>Presentation: The Boring S**T (Taxes, Legal & Retirement)</p>
-
-<h4>5pm</h4>
-<p>Check out of Parkline</p>
-<p>End of Workshop</p>
-<hr>
-<p><sup class="text-danger"><strong>*</strong></sup> = You are responsible for making your way to and from the event</p>
+			<div class="container">
+				<p class="lead text-center">If you are not entirely satisfied with your purchase, we're here to help.</p>
+				<hr class="endline endline-blue">
+				<h3>Return Policy</h3>
+				<p class="lead">Because a GYST Workshop Ticket is a purely digital product, there is no return policy for this product.</p>
+				<h3>Refund Policy</h3>
+				<p class="lead">You may ask for a refund until 30 days before February 7th, 2019 (January 8th, 2019). Please allow up to 7 days after your refund request to see the amount in your bank account.</p>
+				<h5>Need a Refund?</h5>
+				<p>Please fill out the form below and a GYST Workshop Support team member will reach out to you within 24 hours.</p>
+				<div class="row">
+					<div class="col-md-5">
+												<div class="card">
+							<div class="card-body">
+																<form method="POST" action="refunds" accept-charset="UTF-8"><input name="_token" type="hidden" value="ESugUGZ4dNVJBrdjEY3oOxrqczxTfpM3GiU8W0nK">
+								<div class="row">
+									<div class="alert alert-info">This Event Has Finished</div>
+								</div>
+								</form>
+							</div>
+						</div>
+											</div>
 				</div>
 			</div>
-		</div>
 	</main>
 	<footer class="site-footer">
 		<div class="site-footer-wrapper">
@@ -480,8 +419,8 @@ Lunch
 						<ul>
 							
 							
-							<li><a href="/crew.html" class="">Our Crew</a></li>
-							<li><a href="/workshop.html" class="">The Workshop</a></li>
+							<li><a href="/crew" class="">Our Crew</a></li>
+							<li><a href="/workshop" class="">The Workshop</a></li>
 							
 						</ul>
 						<br>
@@ -503,7 +442,7 @@ Lunch
 						</p>
 						<hr class="endline endline-white">
 						<p class="text-center text-light">
-							<small><a href="/privacy.html" class="text-light">Privacy Policy</a> | <a href="/terms.html" class="text-light">Terms & Conditions</a> | <a href="/refunds.html" class="text-light">Refund Policy</a></small>
+							<small><a href="/privacy" class="text-light">Privacy Policy</a> | <a href="/terms" class="text-light">Terms & Conditions</a> | <a href="/refunds" class="text-light">Refund Policy</a></small>
 						</p>
 					</div>
 				</div>

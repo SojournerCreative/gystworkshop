@@ -370,8 +370,8 @@
 					<li><a href="#" data-toggle="collapse" data-target="#siteNavigation" class="btn btn-light">Menu <small><i class="fas fa-ellipsis-v"></i></small></a></li>
 				</ul>
 				<ul id="siteNavigation" class="site-header-navigation-list collapse d-lg-flex d-md-flex d-sm-none">
-					<li><a href="/crew.html" class="">Our Crew</a></li>
-					<li><a href="/workshop.html" class="active">The Workshop</a></li>
+					<li><a href="/crew" class="">Our Crew</a></li>
+					<li><a href="/workshop" class="">The Workshop</a></li>
 					
 					
 				</ul>
@@ -381,134 +381,176 @@
 	<div class="welcome-banner welcome-banner-page">
 		<div class="container welcome-banner-container">
 			<div class="welcome-banner-headline text-center">
-				<h1 class="display-3">The Workshop</h1>
+				<h1 class="display-3">Privacy Policy</h1>
 			</div>
 		</div>
 	</div>
 	<main class="page-content">
-		<div class="container">
-			<p class="lead text-center">
-				We're so excited that you're interested in joining us in Brooklyn! We've been photographers for over ten years and we created Get Your Sh*t Together, a practical workshop with content designed to equip photographers with actionable tools that help you reach your goals. There will be a styled wedding shoot, evening outings, and lots of memories shared by all. 
-				<br><br>
-				<a href="/schedule.html" class="btn btn-primary btn-lg">View The Workshop Schedule</a>
-			</p>
-			<br><br>
-			<hr class="endline endline-blue">
-			<br><br>
-		</div>
 			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<h2 class="text-center">What We Give You</h2>
-						<ul class="workshop-element">
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-2-day.jpg" alt="">
-					<h3>2 day workshop in Brooklyn</h3>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-meal.jpg" alt="">
-					<h3>Catered Breakfast, lunch, snacks, coffee & tea</h3>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-couple.jpg" alt="">
-					<h3>Photograph a real fashion forward couple in NYC</h3>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-swag-bag.jpg" alt="">
-					<h3>Swag Bag</h3>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-lightroom.jpg" alt="">
-					<h3>Custom Lightroom Preset Development</h3>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-email.jpg" alt="">
-					<h3>15 Customizable Email Templates</h3>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-app.jpg" alt="">
-					<h3>Our Favorite List of Time Saving Apps</h3>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-portfolio.jpg" alt="">
-					<h3>Personal Portfolio Review</h3>
-				</li>
-			</ul>
-					</div>
-					<div class="col-md-12">
-						<br><br>
-						<hr class="endline endline-blue">
-						<br><br>
-						<h2 class="text-center">What's On You & What You Bring</h2>
-			<ul class="workshop-element text-center">
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-lodging.png" alt="">
-					<h3>Lodging</h3>
-					<small>We can provide AirBnb Recommendations</small>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-dinner.png" alt="">
-					<h3>Dinner</h3>
-					<small>We can provide a list of our favorite spots</small>
-				</li>
-				<li class="workshop-element-list-item">
-					<img src="img/workshop-money.png" alt="">
-					<h3>$$ for evening hangs</h3>
-					<small>Planned by Us</small>
-				</li>
-			</ul>
-			<ul class="workshop-element">
-				<li class="workshop-element-list-item text-center">
-					<h1 class="display-1">+</h1>
-				</li>
-			</ul>
-			<ul class="workshop-element">
-				<li class="workshop-element-list-item workshop-element-list-item-reverse">
-					<h3>Your Laptop</h3>
-				</li>
-				<li class="workshop-element-list-item workshop-element-list-item-reverse">
-					<h3>Hard Drives w/ Completed Weddings</h3>
-				</li>
-				<li class="workshop-element-list-item workshop-element-list-item-reverse">
-					<h3>Your Pricing Information</h3>
-				</li>
-				<li class="workshop-element-list-item workshop-element-list-item-reverse">
-					<h3>Any Sh*t you may share with your clients</h3>
-				</li>
-			</ul>
-					</div>
-				</div>
+				
+				<h1>PRIVACY POLICY</h1>
+<p>
+	Last updated December 04, 2018
+</p>
+<p>
+	Thank you for choosing to be part of our community at GYST Workshop (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at hello@sojournersociety.com.
+</p>
+<p>
+	When you visit our website https://gystworkshop.com, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
+</p>
+<p>
+	This privacy policy applies to all information collected through our website (such as https://gystworkshop.com), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "Sites").
+Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.
+</p>
+
+<h2>
+	1. WHAT INFORMATION DO WE COLLECT?
+</h2>
+<h4>Personal information you disclose to us</h4>
+<p><em>In Short: We collect personal information that you provide to us such as name, address, contact information, passwords and security data, and payment information.</em></p>
+<p>
+	We collect personal information that you voluntarily provide to us when expressing an interest in obtaining information about us or our products and services, when participating in activities on the Sites or otherwise contacting us.
+</p>
+<p>
+	The personal information that we collect depends on the context of your interactions with us and the Sites, the choices you make and the products and features you use. The personal information we collect can include the following:
+</p>
+<p>
+	Name and Contact Data. We collect your first and last name, email address, postal address, phone number, and other similar contact data.
+</p>
+<p>
+	Credentials. We collect passwords, password hints, and similar security information used for authentication and account access.
+</p>
+<p>
+	Payment Data. We collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by our payment processor and you should review its privacy policies and contact the payment processor directly to respond to your questions.
+</p>
+<p>
+	All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
+</p>
+<h4>
+	Information collected from other sources
+</h4>
+<p><em>In Short: We may collect limited data from public databases, marketing partners, and other outside sources.
+We may obtain information about you from other sources, such as public databases, joint marketing partners, as well as from other third parties. Examples of the information we receive from other sources include: social media profile information; marketing leads and search results and links, including paid listings (such as sponsored links).</em></p>
+
+<h2>2. HOW DO WE USE YOUR INFORMATION?</h2>
+<p>
+	In Short: We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
+</p>
+<p>
+	We use personal information collected via our Sites for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
+</p>
+<h4>
+	We use the information we collect or receive:
+</h4>
+<ul>
+	<li>To send you marketing and promotional communications. We and/or our third party marketing partners may use the
+personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails at any time (see the " WHAT ARE YOUR PRIVACY RIGHTS " below).</li>
+	<li>To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.</li>
+	<li>Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the Sites.</li>
+	<li>Request Feedback. We may use your information to request feedback and to contact you about your use of our Sites.</li>
+	<li>To protect our Sites. We may use your information as part of our efforts to keep our Sites safe and secure (for example, for fraud monitoring and prevention).</li>
+	<li>To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.</li>
+	<li>To enforce our terms, conditions and policies.</li>
+	<li>To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.</li>
+	<li>For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Sites, products, services, marketing and your experience.</li>
+</ul>
+
+
+<h2>3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?</h2>
+<p><em>In Short: We only share information with your consent, to comply with laws, to protect your rights, or to fulfill business obligations.</em></p>
+<p>
+	We may process or share data based on the following legal basis:
+</p>
+<ul>
+	<li>Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.</li>
+	<li>Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.</li>
+	<li>Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.</li>
+	<li>Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).</li>
+	<li>Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.</li>
+</ul>
+<p>
+	More specifically, we may need to process your data or share your personal information in the following situations:
+</p>
+<ul>
+	<li>Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.</li>
+	<li>Third-Party Advertisers. We may use third-party advertising companies to serve ads when you visit the Sites. These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.</li>
+	<li>Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.</li>
+</ul>
+
+<h2>
+	4.	DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+</h2>
+<p><em>In Short: We may use cookies and other tracking technologies to collect and store your information.</em></p>
+<p>We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Policy.</p>
+<h2>5.	HOW LONG DO WE KEEP YOUR INFORMATION?</h2>
+<p><em>In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.</em></p>
+<p>
+	We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy policy, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 2 years.
+</p>
+<p>
+	When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+</p>
+
+<h2>6.	HOW DO WE KEEP YOUR INFORMATION SAFE?</h2>
+<p><em>In Short: We aim to protect your personal information through a system of organizational and technical security measures.</em></p>
+<p>
+	We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, please also remember that we cannot guarantee that the internet itself is 100% secure. Although we will do our best to protect your personal information, transmission of personal information to and from our Sites is at your own risk. You should only access the services within a secure environment.
+</p>
+
+<h2>7.	DO WE COLLECT INFORMATION FROM MINORS?</h2>
+<p><em>In Short: We do not knowingly collect data from or market to children under 18 years of age.</em></p>
+<p>
+	We do not knowingly solicit data from or market to children under 18 years of age. By using the Sites, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Sites. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at hello@sojournersociety.com.
+</p>
+
+<h2>8.	WHAT ARE YOUR PRIVACY RIGHTS?</h2>
+<p><em>In Short: You may review, change, or terminate your account at any time.</em></p>
+<p>
+	If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/iustice/data-protection/bodies/authorities/index en.htm
+</p>
+<p>
+	Cookies and similar technologies: Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites. To opt-out of interest-based advertising by advertisers on our Sites visit http://www.aboutads.info/choices/.
+</p>
+
+<h2>9.	CONTROLS FOR DO-NOT-TRACK FEATURES</h2>
+<p>
+	Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy.
+</p>
+
+<h2>
+	10.	DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+</h2>
+<p><em>In Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.</em></p>
+<p>
+	California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+</p>
+<p>
+	If you are under 18 years of age, reside in California, and have a registered account with the Sites, you have the right to request removal of unwanted data that you publicly post on the Sites. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Sites, but please be aware that the data may not be completely or comprehensively removed from our systems.
+</p>
+
+<h2>11. DO WE MAKE UPDATES TO THIS POLICY?</h2>
+<p><em>In Short: Yes, we will update this policy as necessary to stay compliant with relevant laws.</em></p>
+<p>
+	We may update this privacy policy from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy policy frequently to be informed of how we are protecting your information.
+</p>
+<h2>12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?</h2>
+<p>
+	If you have questions or comments about this policy, you may email us at hello@sojournersociety.com or by post to:
+</p>
+<p>
+	<strong>
+		GYST Workshop <br> 626 Flatbush Ave <br> Brooklyn, NY 11225 <br> United States
+	</strong>
+</p>
+
+<p>
+	If you have any further questions or comments about us or our policies, email us at hello@sojournersociety.com or by post to:
+</p>
+<p>
+	<strong>GYST Workshop <br> 626 Flatbush Ave <br> Brooklyn , NY 11225 <br> United States <br> Phone: 917.982.9114</strong>
+</p>
+
 			</div>
-			<div class="container">
-				<br><br>
-				<hr class="endline endline-yellow">
-				<br><br>
-				<h2 class="text-center">What's In Store At The Workshop?</h2>
-				<div class="row justify-content-center">
-					<div class="col-md-7">
-						<p class="text-center">This workshop will be led by Bethany Jones and Sidney Morgan, who will be covering the following topics and more.</p>
-					</div>
-					<div class="col-md-8">
-						<table class="table text-center table-workshop-topics">
-							<tbody>
-								<tr><td><img src="img/topic-brand.png" alt=""></td><td>Finding Your Badass Brand Voice</td><td></td></tr>
-								<tr><td></td><td>Defining Success For You</td><td><img src="img/topic-success.png" alt=""></td></tr>
-								<tr><td><img src="img/topic-confidence.png" alt=""></td><td>Cultivating Unshakeable Confidence In Your Clients</td><td></td></tr>
-								<tr><td></td><td>Getting Absolutely Clear On The Legal Sh*t</td><td><img src="img/topic-legal.png" alt=""></td></tr>
-								<tr><td><img src="img/topic-critique.png" alt=""></td><td>Learning & Improving Through A Portfolio Critique</td><td></td></tr>
-								<tr><td></td><td>Minding Your Dollars and Sense</td><td><img src="img/topic-dollars.png" alt=""></td></tr>
-								<tr><td></td><td>And More</td><td></td></tr>
-							</tbody>
-						</table>
-					</div>
-				</div>
-			</div>
-			<div class="text-center">
-			<br><br>
-							
-			<br><br>
-		</div>
-		
 	</main>
 	<footer class="site-footer">
 		<div class="site-footer-wrapper">
@@ -519,8 +561,8 @@
 						<ul>
 							
 							
-							<li><a href="/crew.html" class="">Our Crew</a></li>
-							<li><a href="/workshop.html" class="active">The Workshop</a></li>
+							<li><a href="/crew" class="">Our Crew</a></li>
+							<li><a href="/workshop" class="">The Workshop</a></li>
 							
 						</ul>
 						<br>
@@ -542,7 +584,7 @@
 						</p>
 						<hr class="endline endline-white">
 						<p class="text-center text-light">
-							<small><a href="/privacy.html" class="text-light">Privacy Policy</a> | <a href="/terms.html" class="text-light">Terms & Conditions</a> | <a href="/refunds.html" class="text-light">Refund Policy</a></small>
+							<small><a href="/privacy" class="text-light">Privacy Policy</a> | <a href="/terms" class="text-light">Terms & Conditions</a> | <a href="/refunds" class="text-light">Refund Policy</a></small>
 						</p>
 					</div>
 				</div>
